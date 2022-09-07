@@ -61,7 +61,7 @@ Novopolotsk State Polytechnic College
 Сomputer repair and maintenance electrician
 ## Languages:
 * English
-![eng](https://yur0k44.github.io/rsschool-cv/eng.jpg "eng")
+![eng](https://yur0k44.github.io/sitesafona-/img/eng.jpg "eng")
 
 
 * Russian - native
@@ -70,4 +70,4 @@ Novopolotsk State Polytechnic College
 * Polish - Basic
 
 -----
-##
+##   
