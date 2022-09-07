@@ -64,10 +64,10 @@ Novopolotsk State Polytechnic College
 ![eng](https://yur0k44.github.io/sitesafona-/img/eng.jpg "eng")
 
 
-* Russian - native
-* Belorussian - native
+* Russian - Native
+* Belorussian - Native
 * Ukrainian - Intermediate
 * Polish - Basic
 
 -----
-##   
+##      
